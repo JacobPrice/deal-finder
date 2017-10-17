@@ -1,0 +1,49 @@
+{
+  "name": "deal-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobPrice/deal-finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobPrice/deal-finder/issues"
+  },
+  "homepage": "https://github.com/JacobPrice/deal-finder#readme",
+  "dependencies": {
+    "auth0-lock": "^10.23.1",
+    "cookie": "^0.3.1",
+    "dotenv": "^4.0.0",
+    "graphql": "^0.11.7",
+    "isomorphic-fetch": "^2.2.1",
+    "next": "^4.1.0",
+    "prop-types": "^15.6.0",
+    "react": "^16.0.0",
+    "react-apollo": "^1.4.16",
+    "react-dom": "^16.0.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.0.1",
+    "babel-plugin-inline-dotenv": "^1.1.1",
+    "babel-plugin-transform-inline-environment-variables": "^0.2.0",
+    "eslint": "^4.9.0",
+    "eslint-config-prettier": "^2.6.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-config-standard-react": "^5.0.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.2.0",
+    "eslint-plugin-prettier": "^2.3.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-react": "^7.4.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "prettier": "^1.7.4"
+  }
+}
