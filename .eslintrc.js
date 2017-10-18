@@ -5,7 +5,7 @@ module.exports = {
   rules: {
     'react/react-in-jsx-scope': 0,
     camelcase: 0,
-    'space-before-function-paren': 0
+    'space-before-function-paren': 1
   },
   globals: {
     WebSocket: false,
